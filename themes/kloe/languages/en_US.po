@@ -1,0 +1,1014 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kloe v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-20 11:24:53+0000\n"
+"Last-Translator: admin <support@qodeinteractive.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:14
+#@ kloe
+msgid "Page you are looking is not found"
+msgstr ""
+
+#: 404.php:22
+#@ kloe
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site's homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: comments.php:4
+#@ kloe
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:4
+#@ kloe
+msgid " Comment "
+msgstr ""
+
+#: comments.php:4
+#@ kloe
+msgid " Comments "
+msgstr ""
+
+#: comments.php:9
+#@ kloe
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:32
+#@ kloe
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:45
+#@ kloe
+msgid "Leave a Comment:"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+#@ kloe
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:49
+#@ kloe
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:50
+#@ kloe
+msgid "Submit"
+msgstr ""
+
+#: comments.php:51
+#@ kloe
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:55
+#@ kloe
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:56
+#@ kloe
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:57
+#@ kloe
+msgid "Website"
+msgstr ""
+
+#: framework/admin/skins/select/templates/anchors-save.php:18
+#: framework/admin/skins/select/templates/header.php:10
+#@ kloe
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:98
+#@ kloe
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:117
+#@ kloe
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:119
+#@ kloe
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/select/templates/content-import.php:120
+#@ kloe
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:225
+#@ kloe
+msgid "Load More"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:512
+#@ kloe
+msgid "Pingback:"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:805
+#@ kloe
+msgid "Continue reading"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:927
+#@ kloe
+msgid "Continue Reading"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1140
+#@ kloe
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/modules/blog/templates/lists/masonry-full-width.php:25
+#: framework/modules/blog/templates/lists/masonry.php:25
+#@ kloe
+msgid "Show More"
+msgstr ""
+
+#: framework/modules/blog/templates/lists/parts/filter.php:24
+#: framework/modules/shortcodes/shop-masonry/templates/shop-filter.php:6
+#@ kloe
+msgid "All"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/audio.php:4
+#@ kloe
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/no-posts.php:2
+#: framework/modules/shortcodes/blog-list/templates/blog-list-holder.php:15
+#: framework/modules/shortcodes/blog-slider/templates/blog-slider-holder.php:12
+#: search.php:47
+#@ kloe
+msgid "No posts were found."
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-author.php:1
+#@ kloe
+msgid "by"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:1
+#@ kloe
+msgid "Comments"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:1
+#@ kloe
+msgid "Comment"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/video.php:17
+#: framework/modules/portfolio/templates/single/media/self.php:14
+#@ kloe
+msgid "video thumb"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/related-posts.php:4
+#@ kloe
+msgid "Related Posts:"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/tags.php:2
+#: framework/modules/portfolio/templates/single/parts/tags.php:12
+#@ kloe
+msgid "Tags:"
+msgstr ""
+
+#: framework/modules/fullscreenmenu/fullscreen-menu-functions.php:7
+#@ kloe
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: framework/modules/header/functions.php:10
+#@ kloe
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:5
+#@ kloe
+msgid "logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:6
+#@ kloe
+msgid "dark logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:7
+#@ kloe
+msgid "light logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/mobile-logo.php:5
+#@ kloe
+msgid "mobile logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:13
+#@ kloe
+msgid "Top Bar Left"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:22
+#@ kloe
+msgid "Top Bar Center"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:30
+#@ kloe
+msgid "Top Bar Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:48
+#@ kloe
+msgid "Right From Main Menu"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:52
+#@ kloe
+msgid "Widgets added here will appear on the right hand side from the main menu"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:66
+#@ kloe
+msgid "Vertical Area"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:70
+#@ kloe
+msgid "Widgets added here will appear on the bottom of vertical menu"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:86
+#@ kloe
+msgid "Right From Mobile Logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:90
+#@ kloe
+msgid "Widgets added here will appear on the right hand side from the mobile logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:105
+#@ kloe
+msgid "Sticky Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:109
+#@ kloe
+msgid "Widgets added here will appear on the right hand side in sticky menu"
+msgstr ""
+
+#: framework/modules/like/like.php:132
+#: framework/modules/like/like.php:145
+#: framework/modules/like/like.php:158
+#@ kloe
+msgid "Like this"
+msgstr ""
+
+#: framework/modules/like/like.php:135
+#: framework/modules/like/like.php:148
+#: framework/modules/like/like.php:161
+#@ kloe
+msgid "You already like this!"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/categories.php:14
+#@ kloe
+msgid "Category:"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/date.php:4
+#@ kloe
+msgid "Date:"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/related.php:2
+#@ kloe
+msgid "Related projects"
+msgstr ""
+
+#: framework/modules/portfolio/templates/single/parts/related.php:47
+#@ kloe
+msgid "No related portfolios were found."
+msgstr ""
+
+#: framework/modules/search/templates/types/fullscreen-search.php:14
+#@ kloe
+msgid "Search:"
+msgstr ""
+
+#: framework/modules/search/templates/types/search-covers-header.php:9
+#: framework/modules/search/templates/types/search-slides-from-header-bottom.php:8
+#: framework/modules/search/templates/types/search-slides-from-window-top.php:9
+#: framework/modules/title/title-functions.php:129
+#: framework/modules/widgets/search-opener/search-opener.php:110
+#: searchform.php:3
+#@ kloe
+msgid "Search"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:25
+#@ kloe
+msgid "Accordion Tab"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:37
+#@ kloe
+msgid "Title"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:40
+#@ kloe
+msgid "Section"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:41
+#@ kloe
+msgid "Enter accordion section title."
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:45
+#@ kloe
+msgid "Section ID"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:47
+#, php-format
+#@ kloe
+msgid "Enter optional row ID. Make sure it is unique, and it is valid as w3c specification: %s (Must not have spaces)"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:47
+#@ kloe
+msgid "link"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:26
+#@ kloe
+msgid "Accordion"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:37
+#@ kloe
+msgid "Extra class name"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:39
+#@ kloe
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: framework/modules/shortcodes/blog-list/blog-list.php:37
+#: includes/nav-menu/edit_custom_walker.php:206
+#@ kloe
+msgid "Type"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:179
+#@ kloe
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:102
+#@ kloe
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: framework/modules/shortcodes/interactive-banner/templates/button-only.php:12
+#: framework/modules/shortcodes/interactive-banner/templates/info-over.php:12
+#@ kloe
+msgid "banner image"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/templates/dropdown.php:4
+#@ kloe
+msgid "Share"
+msgstr ""
+
+#: framework/modules/title/templates/title.php:5
+#@ kloe
+msgid "title image"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:99
+#@ kloe
+msgid " Tag"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:111
+#@ kloe
+msgid "Author:"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:140
+#@ kloe
+msgid "404 - Page not found"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:169
+#@ kloe
+msgid "Archive"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:264
+#@ kloe
+msgid "Search results for "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:323
+#@ kloe
+msgid "Posts tagged "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:326
+#@ kloe
+msgid "Products tagged "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:329
+#@ kloe
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:342
+#@ kloe
+msgid "Page"
+msgstr ""
+
+#: framework/modules/widgets/instagram/instagram.php:10
+#@ kloe
+msgid "Display instagram images"
+msgstr ""
+
+#: framework/modules/widgets/latest-post/latest-posts.php:9
+#@ kloe
+msgid "Display posts from your blog"
+msgstr ""
+
+#: framework/modules/widgets/lib/widget-class.php:75
+#@ kloe
+msgid "There are no options for this widget."
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:7
+#@ kloe
+msgid "Select Woocommerce Dropdown Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:74
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:182
+#@ kloe
+msgid "Quantity: "
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:78
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:186
+#: woocommerce/cart/cart.php:50
+#@ kloe
+msgid "Remove this item"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:87
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:194
+#: woocommerce/cart/cart-totals.php:81
+#: woocommerce/cart/cart.php:30
+#@ kloe
+msgid "Total"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:98
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:206
+#@ kloe
+msgid "View Shopping Bag"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:99
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:209
+#@ kloe
+msgid "Checkout"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:104
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:215
+#@ kloe
+msgid "No products in the cart."
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-functions.php:332
+#@ kloe
+msgid "Out of stock!"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:88
+#@ kloe
+msgid "Sale!"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:103
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:115
+#@ kloe
+msgid "First name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:104
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:116
+#@ kloe
+msgid "Last name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:105
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:117
+#@ kloe
+msgid "Company name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:106
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:118
+#@ kloe
+msgid "Address"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:107
+#@ kloe
+msgid "Email"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:108
+#@ kloe
+msgid "Phone"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:109
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:119
+#@ kloe
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:110
+#@ kloe
+msgid "State / County"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:272
+#@ kloe
+msgid "Apply Coupon"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:291
+#@ kloe
+msgid "Update Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:310
+#@ kloe
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:328
+#@ kloe
+msgid "Update Totals"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:348
+#@ kloe
+msgid "Pay for order"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:373
+#@ kloe
+msgid "Place Order"
+msgstr ""
+
+#: framework/qode-framework.php:515
+#@ kloe
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions.php:920
+#@ kloe
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:921
+#@ kloe
+msgid "Loading new posts..."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/nav-menu/edit_custom_walker.php:78
+#, php-format
+#@ kloe
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/nav-menu/edit_custom_walker.php:82
+#, php-format
+#@ kloe
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:107
+#@ kloe
+msgid "Move up"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:120
+#@ kloe
+msgid "Move down"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:122
+#: includes/nav-menu/edit_custom_walker.php:124
+#@ kloe
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:133
+#@ kloe
+msgid "URL"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:140
+#@ kloe
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:146
+#@ kloe
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:153
+#@ kloe
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:158
+#@ kloe
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:164
+#@ kloe
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:170
+#@ kloe
+msgid "Description"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:172
+#@ kloe
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:180
+#@ kloe
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:191
+#@ kloe
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:201
+#@ kloe
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:216
+#@ kloe
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:234
+#@ kloe
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:240
+#@ kloe
+msgid "Only with \"default\" & \"wide with icons\" menu types"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:251
+#@ kloe
+msgid "Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:272
+#@ kloe
+msgid "Dropdown Featured Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:282
+#@ kloe
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:293
+#@ kloe
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:302
+#, php-format
+#@ kloe
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:315
+#@ kloe
+msgid "Remove"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:316
+#@ kloe
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:71
+#@ kloe
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:72
+#@ kloe
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:73
+#, php-format
+#@ kloe
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:74
+#@ kloe
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:75
+#, php-format
+#@ kloe
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:76
+#, php-format
+#@ kloe
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:77
+#, php-format
+#@ kloe
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:78
+#, php-format
+#@ kloe
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:79
+#, php-format
+#@ kloe
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:80
+#, php-format
+#@ kloe
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:81
+#, php-format
+#@ kloe
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:82
+#, php-format
+#@ kloe
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:83
+#@ kloe
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:84
+#@ kloe
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:85
+#@ kloe
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:86
+#@ kloe
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:87
+#, php-format
+#@ kloe
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:18
+#@ kloe
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:42
+#@ kloe
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:43
+#@ kloe
+msgid "Add Widget Area"
+msgstr ""
+
+#: vc-templates/vc_row.php:210
+#@ kloe
+msgid "Video thumb"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+#@ kloe
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+#@ kloe
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:22
+#@ kloe
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+#@ kloe
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:49
+#@ kloe
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+#@ kloe
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:96
+#, php-format
+#@ kloe
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#@ kloe
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#@ kloe
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#@ kloe
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:82
+#@ kloe
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+#@ kloe
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+#@ kloe
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+#@ kloe
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+#@ kloe
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+#@ kloe
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+#@ kloe
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+#@ kloe
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+#@ kloe
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:17
+#@ kloe
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:47
+#: woocommerce/single-product/product-thumbnails.php:30
+#@ kloe
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+#@ kloe
+msgid "Related Products"
+msgstr ""
+

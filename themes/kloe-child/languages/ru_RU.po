@@ -1,0 +1,845 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VIP Treatments\n"
+"POT-Creation-Date: 2016-08-31 14:14+0300\n"
+"PO-Revision-Date: 2016-08-31 14:22+0300\n"
+"Last-Translator: Synthetica <synthetica@gmail.com>\n"
+"Language-Team: Synthetica <syntheticafreon@gmail.com>\n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../woo-bookings-advanced/single-product/child-booking-accordion.php:34
+msgid "Specialist:"
+msgstr "Специалист:"
+
+#: ../woo-bookings-advanced/single-product/child-bookings.php:19
+msgid "Price List"
+msgstr "Прайслист"
+
+#: ../woo-bookings-advanced/single-product/add-to-cart/booking.php:17
+#: ../woo-bookings-advanced/single-product/add-to-cart/booking-loop.php:20
+#: ../woocommerce-bookings/single-product/add-to-cart/booking.php:17
+msgid "Your browser must support JavaScript in order to make a booking."
+msgstr ""
+"Ваш браузер должен поддерживать JavaScript для того чтобы у Вас была "
+"возможность бронировать услуги."
+
+#: ../woo-bookings-advanced/single-product/add-to-cart/parent-service.php:2
+msgid "Get Price"
+msgstr "Узнать стоимость"
+
+#: ../woo-bookings-advanced/sold-by/sold-by-loop.php:2
+#: ../woo-bookings-advanced/sold-by/sold-by-order-details.php:2
+#: ../woo-bookings-advanced/sold-by/sold-by-single.php:2
+msgid "Sold By:"
+msgstr "Продавец:"
+
+#: ../includes/class-vendors-settings.php:45
+msgid "Specialist name:"
+msgstr "Имя специалиста:"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:18
+msgid "Vendor Registration Form"
+msgstr "Форма для регистрации продавца"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:26
+msgid "Submit the form below to become a vendor on this store."
+msgstr ""
+"Чтобы стать продавцом в нашем магазине, Вам необходимо заполнить и отправить "
+"следующую форму."
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:40
+msgid "First Name"
+msgstr "Имя"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:44
+msgid "First Name *"
+msgstr "Имя *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:51
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:55
+msgid "Last Name *"
+msgstr "Фамилия *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:64
+msgid "Login Username"
+msgstr "Логин пользователя"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:68
+msgid "Login Username *"
+msgstr "Логин пользователя *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:75
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:107
+msgid "Email"
+msgstr "Адрес электронной почты"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:79
+msgid "Email *"
+msgstr "Адрес электронной почты *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:86
+msgid "Confirm Email"
+msgstr "Подтвердите Адрес электронной почты"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:90
+msgid "Confirm Email *"
+msgstr "Подтвердите Адрес электронной почты *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:101
+msgid "Vendor Name"
+msgstr "Имя продавца"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:105
+msgid "Vendor Name *"
+msgstr "Имя продавца *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:106
+msgid ""
+"Important: This is the name that customers see when purchasing your "
+"products.  Please choose carefully."
+msgstr ""
+"Важно: Это имя, которое будут видеть покупатели при покупке Вашего товара. "
+"Выбирайте аккуратно."
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:113
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:108
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:117
+msgid "Phone *"
+msgstr "Телефон *"
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:126
+msgid "Please describe something about your company and what you sell."
+msgstr "Опишите, пожалуйста Вашу компанию и что Вы продаете."
+
+#: ../woocommerce-product-vendors/shortcode-registration-form.php:130
+msgid "Please describe something about your company and what you sell *"
+msgstr "Опишите, пожалуйста Вашу компанию и что Вы продаете. *"
+
+#: ../../kloe/functions.php:920
+msgid "No more posts"
+msgstr ""
+
+#: ../../kloe/functions.php:921
+msgid "Loading new posts..."
+msgstr ""
+
+#: ../../kloe/searchform.php:3
+#: ../../kloe/framework/modules/title/title-functions.php:129
+#: ../../kloe/framework/modules/widgets/search-opener/search-opener.php:110
+#: ../../kloe/framework/modules/search/templates/types/search-slides-from-header-bottom.php:8
+#: ../../kloe/framework/modules/search/templates/types/search-covers-header.php:9
+#: ../../kloe/framework/modules/search/templates/types/search-slides-from-window-top.php:9
+msgid "Search"
+msgstr ""
+
+#: ../../kloe/404.php:14
+msgid "Page you are looking is not found"
+msgstr ""
+
+#: ../../kloe/404.php:22
+msgid ""
+"The page you are looking for does not exist. It may have been moved, or "
+"removed altogether. Perhaps you can return back to the site's homepage and "
+"see if you can find what you are looking for."
+msgstr ""
+
+#: ../../kloe/search.php:47
+#: ../../kloe/framework/modules/blog/templates/parts/no-posts.php:2
+#: ../../kloe/framework/modules/shortcodes/blog-slider/templates/blog-slider-holder.php:12
+#: ../../kloe/framework/modules/shortcodes/blog-list/templates/blog-list-holder.php:15
+msgid "No posts were found."
+msgstr ""
+
+#: ../../kloe/comments.php:4
+msgid "No Comments"
+msgstr ""
+
+#: ../../kloe/comments.php:4
+msgid " Comment "
+msgstr ""
+
+#: ../../kloe/comments.php:4
+msgid " Comments "
+msgstr ""
+
+#: ../../kloe/comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../../kloe/comments.php:32
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: ../../kloe/comments.php:45
+msgid "Leave a Comment:"
+msgstr ""
+
+#: ../../kloe/comments.php:46
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: ../../kloe/comments.php:49
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../../kloe/comments.php:50
+msgid "Submit"
+msgstr ""
+
+#: ../../kloe/comments.php:51
+msgid "Write your comment here..."
+msgstr ""
+
+#: ../../kloe/comments.php:55
+msgid "Your full name"
+msgstr ""
+
+#: ../../kloe/comments.php:56
+msgid "E-mail address"
+msgstr ""
+
+#: ../../kloe/comments.php:57
+msgid "Website"
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:71
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:72
+msgid "Install Plugins"
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:73
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:85
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:86
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../../kloe/includes/plugins/plugins-activation.php:87
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:133
+msgid "URL"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:170
+msgid "Description"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:172
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:180
+msgid "Anchor"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:191
+msgid "Don't link"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:201
+msgid "Don't show"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:206
+#: ../../kloe/framework/modules/shortcodes/blog-list/blog-list.php:37
+msgid "Type"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:216
+msgid "Wide menu position"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:234
+msgid "Icon Pack"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:240
+msgid "Only with \"default\" & \"wide with icons\" menu types"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:251
+msgid "Icon"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:272
+msgid "Dropdown Featured Icon"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:282
+msgid "Custom widget area"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:293
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:302
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:315
+msgid "Remove"
+msgstr ""
+
+#: ../../kloe/includes/nav-menu/edit_custom_walker.php:316
+msgid "Cancel"
+msgstr ""
+
+#: ../../kloe/includes/sidebar/qode-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr ""
+
+#: ../../kloe/includes/sidebar/qode-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: ../../kloe/includes/sidebar/qode-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr ""
+
+#: ../../kloe/vc-templates/vc_row.php:218
+msgid "Video thumb"
+msgstr ""
+
+#: ../../kloe/framework/qode-framework.php:515
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../../kloe/framework/modules/like/like.php:132
+#: ../../kloe/framework/modules/like/like.php:145
+#: ../../kloe/framework/modules/like/like.php:158
+msgid "Like this"
+msgstr ""
+
+#: ../../kloe/framework/modules/like/like.php:135
+#: ../../kloe/framework/modules/like/like.php:148
+#: ../../kloe/framework/modules/like/like.php:161
+msgid "You already like this!"
+msgstr ""
+
+#: ../../kloe/framework/modules/fullscreenmenu/fullscreen-menu-functions.php:7
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: ../../kloe/framework/modules/portfolio/templates/single/media/self.php:14
+#: ../../kloe/framework/modules/blog/templates/parts/video.php:17
+msgid "video thumb"
+msgstr ""
+
+#: ../../kloe/framework/modules/portfolio/templates/single/parts/related.php:2
+msgid "Related projects"
+msgstr ""
+
+#: ../../kloe/framework/modules/portfolio/templates/single/parts/related.php:47
+msgid "No related portfolios were found."
+msgstr ""
+
+#: ../../kloe/framework/modules/portfolio/templates/single/parts/tags.php:12
+#: ../../kloe/framework/modules/blog/templates/single/parts/tags.php:2
+msgid "Tags:"
+msgstr ""
+
+#: ../../kloe/framework/modules/portfolio/templates/single/parts/categories.php:14
+msgid "Category:"
+msgstr "Категория:"
+
+#: ../../kloe/framework/modules/portfolio/templates/single/parts/date.php:4
+msgid "Date:"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/blog-functions.php:225
+msgid "Load More"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/blog-functions.php:512
+msgid "Pingback:"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/blog-functions.php:805
+msgid "Continue reading"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/blog-functions.php:927
+msgid "Continue Reading"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/blog-functions.php:1140
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/parts/post-info-author.php:1
+msgid "by"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/parts/audio.php:4
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/parts/post-info-comments.php:1
+msgid "Comments"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/parts/post-info-comments.php:1
+msgid "Comment"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/lists/masonry.php:25
+#: ../../kloe/framework/modules/blog/templates/lists/masonry-full-width.php:25
+msgid "Show More"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/lists/parts/filter.php:24
+#: ../../kloe/framework/modules/shortcodes/shop-masonry/templates/shop-filter.php:6
+msgid "All"
+msgstr ""
+
+#: ../../kloe/framework/modules/blog/templates/single/parts/related-posts.php:4
+msgid "Related Posts:"
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:99
+msgid " Tag"
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:111
+msgid "Author:"
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:140
+msgid "404 - Page not found"
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:169
+msgid "Archive"
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:264
+msgid "Search results for "
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:323
+msgid "Posts tagged "
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:326
+msgid "Products tagged "
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:329
+msgid "Articles posted by "
+msgstr ""
+
+#: ../../kloe/framework/modules/title/title-functions.php:342
+msgid "Page"
+msgstr ""
+
+#: ../../kloe/framework/modules/title/templates/title.php:5
+msgid "title image"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/functions.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:13
+msgid "Top Bar Left"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:22
+msgid "Top Bar Center"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:30
+msgid "Top Bar Right"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:48
+msgid "Right From Main Menu"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:52
+msgid ""
+"Widgets added here will appear on the right hand side from the main menu"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:66
+msgid "Vertical Area"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:70
+msgid "Widgets added here will appear on the bottom of vertical menu"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:86
+msgid "Right From Mobile Logo"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:90
+msgid ""
+"Widgets added here will appear on the right hand side from the mobile logo"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:105
+msgid "Sticky Right"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/widget-areas-functions.php:109
+msgid "Widgets added here will appear on the right hand side in sticky menu"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/templates/parts/mobile-logo.php:5
+msgid "mobile logo"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/templates/parts/logo.php:5
+msgid "logo"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/templates/parts/logo.php:6
+msgid "dark logo"
+msgstr ""
+
+#: ../../kloe/framework/modules/header/templates/parts/logo.php:7
+msgid "light logo"
+msgstr ""
+
+#: ../../kloe/framework/modules/widgets/latest-post/latest-posts.php:9
+msgid "Display posts from your blog"
+msgstr ""
+
+#: ../../kloe/framework/modules/widgets/instagram/instagram.php:10
+msgid "Display instagram images"
+msgstr ""
+
+#: ../../kloe/framework/modules/widgets/lib/widget-class.php:75
+msgid "There are no options for this widget."
+msgstr ""
+
+#: ../../kloe/framework/modules/search/templates/types/fullscreen-search.php:14
+msgid "Search:"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:88
+msgid "Sale!"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:103
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:115
+#, fuzzy
+msgid "First name"
+msgstr "Имя"
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:104
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:116
+#, fuzzy
+msgid "Last name"
+msgstr "Фамилия"
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:105
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:117
+msgid "Company name"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:106
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:118
+msgid "Address"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:109
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:119
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:110
+msgid "State / County"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:272
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:291
+msgid "Update Cart"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:310
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:328
+msgid "Update Totals"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:348
+msgid "Pay for order"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-template-hooks.php:373
+msgid "Place Order"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/woocommerce-functions.php:332
+msgid "Out of stock!"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:7
+msgid "Select Woocommerce Dropdown Cart"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:74
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:182
+msgid "Quantity: "
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:78
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:186
+#: ../../kloe/woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:87
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:194
+#: ../../kloe/woocommerce/cart/cart-totals.php:92
+#: ../../kloe/woocommerce/cart/cart.php:39
+msgid "Total"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:98
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:206
+msgid "View Shopping Bag"
+msgstr "Посмотреть корзину"
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:99
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:209
+msgid "Checkout"
+msgstr ""
+
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:104
+#: ../../kloe/framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:215
+msgid "No products in the cart."
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion.php:26
+msgid "Accordion"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion.php:37
+msgid "Extra class name"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion.php:39
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:25
+msgid "Accordion Tab"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:37
+msgid "Title"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:40
+msgid "Section"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:41
+msgid "Enter accordion section title."
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:45
+msgid "Section ID"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:47
+#, php-format
+msgid ""
+"Enter optional row ID. Make sure it is unique, and it is valid as w3c "
+"specification: %s (Must not have spaces)"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/accordions/accordion-tab.php:47
+msgid "link"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/socialshare/templates/dropdown.php:4
+msgid "Share"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/icon/icon.php:102
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/interactive-banner/templates/info-over.php:12
+#: ../../kloe/framework/modules/shortcodes/interactive-banner/templates/button-only.php:12
+msgid "banner image"
+msgstr ""
+
+#: ../../kloe/framework/modules/shortcodes/button/button.php:179
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: ../../kloe/framework/admin/skins/select/templates/header.php:10
+#: ../../kloe/framework/admin/skins/select/templates/anchors-save.php:18
+msgid "Save Changes"
+msgstr ""
+
+#: ../../kloe/framework/admin/skins/select/templates/content-import.php:98
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: ../../kloe/framework/admin/skins/select/templates/content-import.php:117
+msgid "Important notes:"
+msgstr ""
+
+#: ../../kloe/framework/admin/skins/select/templates/content-import.php:119
+msgid ""
+"Please note that import process will take time needed to download all "
+"attachments from demo web site."
+msgstr ""
+
+#: ../../kloe/framework/admin/skins/select/templates/content-import.php:120
+msgid ""
+"If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: ../../kloe/woocommerce/single-product/related.php:51
+msgid "Related Products"
+msgstr ""
+
+#: ../../kloe/woocommerce/single-product/product-thumbnails.php:39
+#: ../../kloe/woocommerce/single-product/product-image.php:55
+msgid "Placeholder"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/shipping-calculator.php:63
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart.php:36
+msgid "Product"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart.php:37
+#, fuzzy
+msgid "Price"
+msgstr "Узнать стоимость"
+
+#: ../../kloe/woocommerce/cart/cart.php:38
+msgid "Quantity"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: ../../kloe/woocommerce/cart/cart.php:138
+msgid "Coupon"
+msgstr ""

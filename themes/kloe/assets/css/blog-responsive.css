@@ -1,0 +1,129 @@
+@media only screen and (max-width: 1200px) {
+  /* line 6, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-masonry-full-width article,
+  .qodef-blog-holder.qodef-masonry-full-width .qodef-blog-masonry-grid-sizer {
+    width: 23.5%;
+  }
+
+  /* line 12, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-centered {
+    width: 80%;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  /* line 18, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-centered {
+    width: 90%;
+  }
+
+  /* line 23, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-masonry-full-width article,
+  .qodef-blog-holder.qodef-masonry-full-width .qodef-blog-masonry-grid-sizer {
+    width: 32%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* line 31, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-centered {
+    width: 100%;
+  }
+
+  /* line 36, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-masonry article,
+  .qodef-blog-holder.qodef-blog-type-masonry .qodef-blog-masonry-grid-sizer {
+    width: 49%;
+  }
+
+  /* line 43, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-masonry-full-width article,
+  .qodef-blog-holder.qodef-masonry-full-width .qodef-blog-masonry-grid-sizer {
+    width: 49%;
+  }
+
+  /* line 49, scss/blog-responsive.scss */
+  .qodef-column1 .qodef-related-posts-holder .qodef-related-post,
+  .qodef-column2 .qodef-related-posts-holder .qodef-related-post,
+  .qodef-related-posts-holder .qodef-related-post {
+    width: 48.5%;
+  }
+  /* line 53, scss/blog-responsive.scss */
+  .qodef-column1 .qodef-related-posts-holder .qodef-related-post:nth-child(2n),
+  .qodef-column2 .qodef-related-posts-holder .qodef-related-post:nth-child(2n),
+  .qodef-related-posts-holder .qodef-related-post:nth-child(2n) {
+    margin-right: 0;
+  }
+  /* line 56, scss/blog-responsive.scss */
+  .qodef-column1 .qodef-related-posts-holder .qodef-related-post:nth-child(2n+1),
+  .qodef-column2 .qodef-related-posts-holder .qodef-related-post:nth-child(2n+1),
+  .qodef-related-posts-holder .qodef-related-post:nth-child(2n+1) {
+    clear: both;
+  }
+
+  /* line 62, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-centered .qodef-post-info-bottom {
+    margin-top: 0;
+    padding: 0;
+  }
+  /* line 66, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-centered .qodef-info-bottom-item {
+    display: block;
+    text-align: center !important;
+    width: 100%;
+    margin: 20px 0;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* line 79, scss/blog-responsive.scss */
+  .qodef-column1 .qodef-blog-holder.qodef-blog-type-centered .qodef-post-info-bottom,
+  .qodef-column2 .qodef-blog-holder.qodef-blog-type-centered .qodef-post-info-bottom {
+    margin-top: 0;
+    padding: 0;
+  }
+  /* line 83, scss/blog-responsive.scss */
+  .qodef-column1 .qodef-blog-holder.qodef-blog-type-centered .qodef-info-bottom-item,
+  .qodef-column2 .qodef-blog-holder.qodef-blog-type-centered .qodef-info-bottom-item {
+    display: block;
+    text-align: center !important;
+    width: 100%;
+    margin: 20px 0;
+  }
+}
+@media only screen and (max-width: 600px) {
+  /* line 94, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-masonry article,
+  .qodef-blog-holder.qodef-blog-type-masonry .qodef-blog-masonry-grid-sizer {
+    width: 100%;
+  }
+
+  /* line 101, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-masonry-full-width article,
+  .qodef-blog-holder.qodef-masonry-full-width .qodef-blog-masonry-grid-sizer {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 480px) {
+  /* line 111, scss/blog-responsive.scss */
+  .qodef-related-posts-holder .qodef-related-post {
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+
+  /* line 115, scss/blog-responsive.scss */
+  .qodef-related-posts-holder .qodef-related-posts-title h3:before,
+  .qodef-related-posts-holder .qodef-related-posts-title h3:after {
+    display: none !important;
+  }
+
+  /* line 122, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-standard article .qodef-post-info {
+    z-index: 20;
+    position: relative;
+  }
+  /* line 126, scss/blog-responsive.scss */
+  .qodef-blog-holder.qodef-blog-type-standard article .qodef-post-info-bottom .qodef-blog-share {
+    float: left;
+    padding-top: 10px;
+  }
+}
+
+/*# sourceMappingURL=blog-responsive.css.map */

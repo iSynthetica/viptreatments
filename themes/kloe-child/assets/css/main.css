@@ -1,0 +1,228 @@
+/* Specialist registration form */
+.wcpv-shortcode-registration-form .input-text {
+    background-color: #f0f0f0;
+    border: 1px solid #f0f0f0;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    box-sizing: border-box;
+    color: #868686;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 24px;
+    outline: 0 none;
+    padding: 8px 15px;
+    width: 100%;
+}
+
+.wcpv-shortcode-registration-form .input-text:focus {
+    border: 1px solid #C7C7C7;
+    background-color: #C7C7C7;
+    color: #fff;
+}
+
+p.form-row {
+    margin-bottom: 23px;
+}
+
+.button {
+    border: none;
+}
+
+/* Woocommerce accordion */
+.qodef-content .ui-corner-all,
+.qodef-content .ui-corner-top,
+.qodef-content .ui-corner-right,
+.qodef-content .ui-corner-tr {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.qodef-content .ui-corner-all,
+.qodef-content .ui-corner-bottom,
+.qodef-content .ui-corner-right,
+.qodef-content .ui-corner-br {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.qodef-content .ui-state-default,
+.qodef-content .ui-widget-content,
+.qodef-content .ui-state-default,
+.qodef-content .ui-widget-header .ui-state-default {
+    border: none;
+    background: #f6f6f5;
+}
+
+.qodef-content .ui-state-active,
+.qodef-content .ui-widget-content .ui-state-active,
+.qodef-content .ui-widget-header .ui-state-active {
+    background: #f6f6f5;
+}
+
+.qodef-content .ui-widget-content {
+    border: none;
+    color: #868686;
+}
+
+.qodef-woocommerce-page #reviews input[type=email] {
+    margin-bottom: 20px;
+}
+
+.qodef-content .woocommerce-accordions{
+    margin-bottom: 45px;
+}
+
+/* Woo advanced price list */
+#child-bookings-wrapper {
+}
+
+.child-prod-data-wrapper-closed {
+    display: none;
+}
+
+/* Dropdown select category */
+.dropdown_product_cat {
+    padding: 10px;
+    border: 2px solid #E1E1E1;
+    font-size: 15px;
+    color: #959595;
+    width: 100%;
+}
+
+/* Vendor profile style */
+.wcpv-widget-vendor-title {
+    margin-bottom: 0px;
+}
+
+.wcpv-widget-vendor-rating {
+    margin-bottom: 25px;
+}
+
+.widget_ba_vendor_widget .wcpv-widget-vendor-logo {
+    padding: 0 15px;
+    margin-bottom: 25px;
+}
+
+/*
+   Modify the color styles of the WooCommerce Bookings datepicker calendar.
+   Add any/all of these styles to your theme's custom CSS, but be sure to change
+   the color hex codes to your choice. They're all black here.
+*/
+
+/* Month header background color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker-header {
+    background-image: none;
+    background-color: #000000;
+}
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker .ui-datepicker-title {
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+}
+
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker .ui-datepicker-next.ui-state-disabled,
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker .ui-datepicker-prev.ui-state-disabled {
+    background-color: #3D3D3D;
+}
+
+/* Previous/Next month arrow background color */
+.wc-bookings-date-picker .ui-datepicker .ui-datepicker-next, .wc-bookings-date-picker .ui-datepicker .ui-datepicker-prev {
+    width: 2.3em;
+}
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker .ui-datepicker-next,
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker .ui-datepicker-prev {
+    background-color: #000000;
+}
+
+/* Previous/Next month arrows if not allowed, and calendar dates that are not available */
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled {
+    opacity: 1;
+}
+
+/* Days of the week header background color */
+.ui-datepicker-calendar thead {
+    background-color: #000000;
+}
+
+/* Days of the week header font color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker th {
+    color: #000000;
+}
+
+/* Past calendar days background color (not available) */
+.ui-datepicker-calendar tbody {
+    background-color: #000000;
+}
+
+/* Available calendar days background color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker td.ui-state-disabled {
+    background-color: #F9F9F9;
+}
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker td.ui-state-disabled span {
+    color: #D7D7D7;
+}
+
+/* Available calendar days background color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker td.bookable a {
+    background-color: #EA9195 !important;
+}
+
+/* Available calendar day hover background color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker td.bookable a:hover {
+    background-color: #0e0e0e !important;
+}
+
+/* Fully booked calendar days */
+.wc-bookings-date-picker .ui-datepicker td.fully_booked a,
+.wc-bookings-date-picker .ui-datepicker td.fully_booked span {
+    background-color: #000000 !important;
+}
+
+/* Days not bookable based on the availability rules */
+.wc-bookings-date-picker .ui-datepicker td.not_bookable {
+    background-color: #FFFFFF !important;
+}
+
+/* Today's date on calendar background color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker td.ui-datepicker-today a {
+    background-color: #D48487 !important;
+}
+
+/* Today's date on calendar background color */
+#wc-bookings-booking-form .wc-bookings-date-picker .ui-datepicker td.ui-datepicker-current-day a {
+    background-color: #0e0e0e !important;
+}
+
+/* Partially Booked Red Triangle */
+.wc-bookings-date-picker .ui-datepicker td.partial_booked a:before {
+    border-top: none; /* This style removes the red triangle */
+}
+
+/* Time Blocks */
+#wc-bookings-booking-form .block-picker li a {
+    background-color: #FFFFFF !important;
+}
+
+/* Time Blocks Hover */
+#wc-bookings-booking-form .block-picker li a:hover {
+    background-color: #000000 !important;
+}
+
+#wc-bookings-booking-form .block-picker li a.selected {
+    background-color: #EA9195 !important;
+}
+
+.qodef-content .ui-widget-content {
+    background: none;
+}
+
+/* Select 2 */
+.qodef-woocommerce-page form.woocommerce-checkout .select2-container {
+    border: 1px solid #f0f0f0;
+  height: 49px;
+}
+.qodef-woocommerce-page form.woocommerce-checkout .select2-container .select2-choice {
+    height: 49px;
+    line-height: 49px;
+}
